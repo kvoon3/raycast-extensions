@@ -1,6 +1,6 @@
 import { Action, ActionPanel, Clipboard, getPreferenceValues, Icon, showToast, Toast } from "@raycast/api";
 import { copyToClipboard, toURL } from "../utils";
-import { primaryActionEnum } from "../types";
+import { primaryActionEnum, Preferences } from "../types";
 import { PropsWithChildren } from "react";
 
 const { primaryAction } = getPreferenceValues<Preferences>();
