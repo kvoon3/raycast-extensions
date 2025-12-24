@@ -1,6 +1,6 @@
 # Iconify Changelog
 
-## [Docs] - {PR_MERGE_DATE}
+## [Docs] - 2025-12-24
 
 - Add cross-extension badge and credits part to README
 
